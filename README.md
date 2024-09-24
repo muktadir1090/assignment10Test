@@ -69,21 +69,23 @@ Generated logo.svg
 Open logo.svg in your browser to see your generated logo.
 
 
-Screen Shot :
+##Screen Shot :
 ![Screenshot 2024-09-24 at 1 32 01 AM](https://github.com/user-attachments/assets/82dcd4cf-20cc-4388-85de-f9164f9a0248)
 
-License
+![Screenshot 2024-09-24 at 1 41 36 AM](https://github.com/user-attachments/assets/0bdc833e-3b86-41af-b3fa-de09e9ee3d63)
+
+
+##Video Link : https://drive.google.com/file/d/1kMVZnVzh7wScqarsHwVNSK8v1qyjRN1P/view?usp=sharing
+
+##License
 
 This project is licensed under the ISC License.
 
 
-Tests
+##Tests
 
 To run the tests for this application:
 npm test
 
-License
-
-This project is licensed under the ISC License.
 
 
