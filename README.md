@@ -74,6 +74,10 @@ Open logo.svg in your browser to see your generated logo.
 
 ![Screenshot 2024-09-24 at 1 41 36 AM](https://github.com/user-attachments/assets/0bdc833e-3b86-41af-b3fa-de09e9ee3d63)
 
+![Screenshot 2024-09-24 at 1 49 07 AM](https://github.com/user-attachments/assets/28a28f7f-4f53-41a7-9b90-b0eb9dae6f3c)
+
+![Screenshot 2024-09-24 at 1 50 27 AM](https://github.com/user-attachments/assets/6d2cefec-edeb-40a4-9f3a-7e31a0fcc814)
+
 
 ##Video Link : https://drive.google.com/file/d/1kMVZnVzh7wScqarsHwVNSK8v1qyjRN1P/view?usp=sharing
 
