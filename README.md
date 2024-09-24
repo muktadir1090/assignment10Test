@@ -70,6 +70,8 @@ Open logo.svg in your browser to see your generated logo.
 
 
 Screen Shot :
+![Screenshot 2024-09-24 at 1 32 01 AM](https://github.com/user-attachments/assets/82dcd4cf-20cc-4388-85de-f9164f9a0248)
+
 License
 
 This project is licensed under the ISC License.
